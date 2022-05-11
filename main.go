@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/vektra/mockery/v2/cmd"
+	"github.com/yliu-d/mockery/v2/cmd"
 )
 
 func main() {

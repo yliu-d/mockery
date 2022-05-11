@@ -6,7 +6,7 @@ import (
 	context "context"
 
 	mock "github.com/stretchr/testify/mock"
-	pkg "github.com/vektra/mockery/v2/pkg"
+	pkg "github.com/yliu-d/mockery/v2/pkg"
 
 	testing "testing"
 )

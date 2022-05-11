@@ -4,7 +4,7 @@ package mocks
 
 import (
 	mock "github.com/stretchr/testify/mock"
-	test "github.com/vektra/mockery/v2/pkg/fixtures"
+	test "github.com/yliu-d/mockery/v2/pkg/fixtures"
 
 	testing "testing"
 )
